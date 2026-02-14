@@ -1,8 +1,5 @@
 {
-  "name": "CHRONOS 2026_1",
-  "description": "Upload a bill of quantities, and let Gemini AI analyze it to create a dynamic, interactive Gantt chart. Adjust schedules with drag-and-drop, and calculate theoretical progress payments in real-time.",
-  "requestFramePermissions": [
-    "geolocation",
-    "microphone"
-  ]
+  "name": "Ricerca Gare Pubbliche",
+  "description": "Un'applicazione per trovare informazioni sulle gare pubbliche di lavori in un dato comune italiano, filtrando per tipologia di gara e importo massimo.",
+  "requestFramePermissions": []
 }
